@@ -1,6 +1,6 @@
 # AsciiMath 入門筆記（並與 MathType 比較）
 
-**摘要**：本文是筆者個人初學 AsciiMath 所整理的筆記，其中還包含 AsciiMath 與 MathType 的比較。學習此工具的目的是為了編寫包含數學公式的教材與文件，供視障者使用，因此文中也會提及螢幕報讀軟體 NVDA。
+**摘要**：本文是筆者個人初學 AsciiMath 所整理的筆記，其中還包含 AsciiMath 與 MathType 的比較。學習此工具的目的是為了編寫包含數學公式的教材與文件，供視障者使用，因此文中也會提及相關輔助工具，如：NVDA、Access8Math、MathPlayer 等等。
 
 ## 簡介
 
