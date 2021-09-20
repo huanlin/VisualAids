@@ -21,10 +21,10 @@ AsciiMath 官方網站的網址是：http://asciimath.org/
 
 這裡提供幾個簡單的範例，以便快速了解 AsciiMath 語法的簡潔。為了方便視障朋友閱讀，這裡會盡量以日常口語的方式來描述，且一併列出 LaTeX 寫法，方便比較。
 
-1. 線段 AB。AsciiMath 寫法是 `bar(AB)`，LaTeX 寫法是 `overline{AB}`。
-2. 分數：3 分之 2。AsciiMath 寫法是 `2/3`，LaTeX 寫法是 `frac{2}{3}`。
-3. 次方：2 的 3 次方。AsciiMath 寫法是 `2^3`，LaTeX 寫法是 `{a}^{2}`。
-4. x 的平方根。AsciiMath 寫法是 `sqrt(x)`，LaTeX 寫法是 `sqrt{2}`。
+1. 線段 AB。AsciiMath 寫法是 `bar(AB)`，LaTeX 寫法是 `\overline{AB}`。
+2. 分數：3 分之 2。AsciiMath 寫法是 `2/3`，LaTeX 寫法是 `\frac{2}{3}`。
+3. 次方：2 的 3 次方。AsciiMath 寫法是 `2^3`，LaTeX 寫法也是 `2^3`。
+4. x 的平方根。AsciiMath 寫法是 `sqrt(x)`，LaTeX 寫法是 `\sqrt{x}`。
 5. 加總符號（sigma）：從 1 加到 10 的總和。AsciiMath 寫法是 `sum_(i=1)^10 i`，LaTeX 寫法是 `\sum\limits_{i=1}^{10}{i}`。
 
 除了以上幾個簡單範例，AsciiMath 也能表現更複雜的數學公式和符號，例如交集、聯集等關係運算式，二元一次方程式、矩陣、微積分等等。
@@ -50,7 +50,7 @@ MathJax 是一套可以直接把網頁中的 AsciiMath 標記顯示成數學公�
 
 ## 範例
 
-底下是一份包含 AsciiMath 數學記號的 HTML 文件。從這個範例也可以看得出來，AsciiMath 的數學標記是用一對 `\`` 符號來表示（使用一般標準鍵盤來輸入時，就是 Esc 按鍵下方的那個按鍵）。
+底下是一份包含 AsciiMath 數學記號的 HTML 文件。從這個範例也可以看得出來，AsciiMath 的數學標記是用一對 \` 符號來表示（使用一般標準鍵盤來輸入時，就是 Esc 按鍵下方的那個按鍵）。
 
 ~~~~~~~~
 <html>
