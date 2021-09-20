@@ -1,6 +1,6 @@
 # AsciiMath 入門筆記（並與 MathType 比較）
 
-**摘要**：本文是筆者個人初學 AsciiMath 所整理的筆記，其中還包含 AsciiMath 與 MathType 的比較。學習此工具的目的是為了編寫包含數學公式的教材與文件，供視障者使用，因此文中也會提及相關輔助工具，如：NVDA、Access8Math、MathPlayer 等等。
+**摘要**：本文是筆者個人初學 AsciiMath 所整理的筆記，其中還包含 AsciiMath 與 MathType 的比較。學習此工具的目的是為了編寫包含數學公式的教材與文件，供視障者使用，因此文中也會提及相關輔助工具，如：[NVDA](https://www.nvaccess.org/)、[Access8Math](https://addons.nvda-project.org/addons/access8math.en.html)、MathPlayer 等等。
 
 ## 簡介
 
@@ -86,6 +86,8 @@ MathJax 是一套可以直接把網頁中的 AsciiMath 標記顯示成數學公�
 Firefox 呈現結果如下圖：
 
 ![](AsciiMathTest.png)
+
+備註：我的軟體作業環境是 Windows 10、Office 2016、NVDA 2021.2 與附加元件 Access8Math 3.0、MathType 4.0。
 
 ## MathType 與 AsciiMath、LaTeX 的比較
 
