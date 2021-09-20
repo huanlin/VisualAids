@@ -42,7 +42,7 @@ AsciiMath 編輯流程大致如下：
 
 MathJax 是一套可以直接把網頁中的 AsciiMath 標記顯示成數學公式的 JavaScript 函式庫，它的優點是幾乎所有的瀏覽器都適用。它是 AsciiMath 官方網站建議採用的方案。
 
-另一方面，ASCIIMathML.js 則是一個 JavasScript 檔案，它可以把 AsciiMath 標記（以及一些 LaTeX 標記）轉換成對應的 MathML 語法，然後再由瀏覽器來負責把 MathML 標記畫成我們熟悉的數學公式的樣子。MathML 是 HTML5 標準規格的其中一部份，專門用來描述數學公式的語法。也就是說，如果在編輯 HTML 的時候採用 ASCIIMathML.js（而不是 MathJax），那麼讀者在閱讀網頁時，瀏覽器必須支援 HTML5 和 MathML，才有辦法呈現數學公式。
+另一方面，ASCIIMathML.js 則是一個 JavasScript 檔案，它可以把 AsciiMath 標記（以及一些 LaTeX 標記）轉換成對應的 MathML 語法，然後再由瀏覽器來負責把 MathML 標記畫成我們熟悉的數學公式的樣子。MathML 是 HTML5 標準規格的其中一部份，專門用來描述數學公式的語法。也就是說，如果採用 ASCIIMathML.js（而不是 MathJax），那麼讀者在閱讀網頁時，瀏覽器必須支援 HTML5 和 MathML，才有辦法呈現數學公式。
 
 筆者撰文當下，只有 Firefox 支援 MathML，而且即使採用 MathJax 來進行網頁的數學標記轉換，雖然 Firefox、Chrome 和 Edge 都可以正確顯示數學公式，但是搭配 NVDA 的時候，還是以 Firefox 的結果最佳。我測試了一個繁分數：分子是三分之二，分母是七分之五，結果 NVDA 搭配 Chrome 會先唸出「2357」，然後才唸出分數。Firefox 則無此現象。
 
