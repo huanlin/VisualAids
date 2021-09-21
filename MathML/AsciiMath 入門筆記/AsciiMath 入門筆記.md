@@ -115,7 +115,9 @@ LaTeX 雖然語法比較複雜，但排版功能強大。如果需要製作大�
  
 最終，我還是選擇使用 MathType 搭配 Word 來編寫包含數學公式的文件，主要的考量，還是使用者的習慣，以及學生與老師的雙向溝通。未來若碰到比較簡單的數學公式，而且只需要閱讀網頁，那麼 AsciiMath 還是一個值得考慮的選項。
 
-## 延伸閱讀
+## 延伸閱讀與相關軟體下載
 
 - [視覺障礙輔助科技筆記本](https://class.kh.edu.tw/19061/) 的 [MathML 專區](https://class.kh.edu.tw/19061/page/view/19)
 - 討論串：[內含 MathML 標記的網頁，NVDA 碰到數學式子的時候會以中文來唸出數學式子嗎？](https://groups.io/g/nvda-tw/topic/mathml/85601902)
+- [NVDA 附加元件：Access8Math](https://addons.nvda-project.org/addons/access8math.en.html)
+- [MathPlayer 4.0 下載頁面](https://info.wiris.com/mathplayer-info) （註：[官方明確表示他們已經不再繼續開發 MathPlayer](https://twitter.com/wiris_science/status/1439886799497842688)，也就是未來不會再出新版本了。）
